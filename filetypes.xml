@@ -5,6 +5,7 @@
       <mapping pattern="part-00000" type="AUTO_DETECTED" />
       <mapping ext="hdf5" type="PLAIN_TEXT" />
       <mapping ext="adder" type="PLAIN_TEXT" />
+      <mapping ext="boa" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
