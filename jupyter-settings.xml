@@ -6,7 +6,6 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="port" value="8888" />
               <option name="sdkHomePath" value="C:\Users\jack_\AppData\Local\Programs\Python\Python38\python.exe" />
             </JupyterConnectionParameters>
           </value>
