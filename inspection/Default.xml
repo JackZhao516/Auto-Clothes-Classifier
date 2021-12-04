@@ -9,10 +9,20 @@
   <inspection_tool class="OraOverloadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OraUnmatchedForwardDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PgSelectFromProcedureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ourVersions">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="2.7" />
+          <item index="1" class="java.lang.String" itemvalue="3.10" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="9">
+        <list size="10">
           <item index="0" class="java.lang.String" itemvalue="jinja2" />
           <item index="1" class="java.lang.String" itemvalue="bs4" />
           <item index="2" class="java.lang.String" itemvalue="pytest" />
@@ -22,6 +32,7 @@
           <item index="6" class="java.lang.String" itemvalue="pydocstyle" />
           <item index="7" class="java.lang.String" itemvalue="click" />
           <item index="8" class="java.lang.String" itemvalue="torch" />
+          <item index="9" class="java.lang.String" itemvalue="tnt" />
         </list>
       </value>
     </option>
