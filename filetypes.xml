@@ -7,6 +7,7 @@
       <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
       <mapping ext="hdf5" type="PLAIN_TEXT" />
       <mapping ext="eggeater" type="PLAIN_TEXT" />
+      <mapping ext="eggs" type="PLAIN_TEXT" />
       <mapping ext="cobra" type="PLAIN_TEXT" />
       <mapping ext="diamondback" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
