@@ -3,10 +3,13 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="part-00000" type="AUTO_DETECTED" />
+      <mapping pattern="FILE_ID.DIZ" type="PLAIN_TEXT" />
+      <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
       <mapping ext="hdf5" type="PLAIN_TEXT" />
       <mapping ext="eggeater" type="PLAIN_TEXT" />
       <mapping ext="cobra" type="PLAIN_TEXT" />
       <mapping ext="diamondback" type="PLAIN_TEXT" />
+      <mapping ext="nfo" type="PLAIN_TEXT" />
       <mapping ext="adder" type="PLAIN_TEXT" />
       <mapping ext="boa" type="PLAIN_TEXT" />
     </extensionMap>
