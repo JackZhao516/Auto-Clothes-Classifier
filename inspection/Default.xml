@@ -46,6 +46,8 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="dataset.FashionDataset" />
+        <option value="slackathon.bot.db.models.db" />
+        <option value="slackathon.bot.db.utils.db" />
       </list>
     </option>
   </inspection_tool>
