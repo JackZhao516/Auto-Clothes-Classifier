@@ -11,6 +11,7 @@
       <mapping ext="diamondback" type="PLAIN_TEXT" />
       <mapping ext="adder" type="PLAIN_TEXT" />
       <mapping ext="boa" type="PLAIN_TEXT" />
+      <mapping ext="bc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
