@@ -2,8 +2,8 @@
   <option name="myName" value="Default" />
   <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <Languages>
-      <language minSize="49" name="Python" />
       <language minSize="50" name="Rust" />
+      <language minSize="49" name="Python" />
     </Languages>
   </inspection_tool>
   <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -49,6 +49,7 @@
         <option value="dataset.FashionDataset" />
         <option value="slackathon.bot.db.models.db" />
         <option value="slackathon.bot.db.utils.db" />
+        <option value="dict.__getitem__" />
       </list>
     </option>
   </inspection_tool>
