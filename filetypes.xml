@@ -4,14 +4,15 @@
     <extensionMap>
       <mapping pattern="part-00000" type="AUTO_DETECTED" />
       <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
+      <mapping ext="bc" type="PLAIN_TEXT" />
+      <mapping ext="adder" type="PLAIN_TEXT" />
       <mapping ext="hdf5" type="PLAIN_TEXT" />
       <mapping ext="eggeater" type="PLAIN_TEXT" />
       <mapping ext="eggs" type="PLAIN_TEXT" />
-      <mapping ext="cobra" type="PLAIN_TEXT" />
       <mapping ext="diamondback" type="PLAIN_TEXT" />
-      <mapping ext="adder" type="PLAIN_TEXT" />
+      <mapping ext="cobra" type="PLAIN_TEXT" />
       <mapping ext="boa" type="PLAIN_TEXT" />
-      <mapping ext="bc" type="PLAIN_TEXT" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
