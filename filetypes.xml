@@ -9,6 +9,7 @@
       <mapping ext="eggs" type="PLAIN_TEXT" />
       <mapping ext="cobra" type="PLAIN_TEXT" />
       <mapping ext="diamondback" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="adder" type="PLAIN_TEXT" />
       <mapping ext="boa" type="PLAIN_TEXT" />
       <mapping ext="bc" type="PLAIN_TEXT" />
