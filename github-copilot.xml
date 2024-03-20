@@ -7,5 +7,6 @@
         <entry key="Python" value="false" />
       </map>
     </languageAllowList>
+    <option name="showIdeCompletions" value="true" />
   </component>
 </application>
