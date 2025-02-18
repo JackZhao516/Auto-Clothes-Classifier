@@ -51,6 +51,7 @@
         <option value="slackathon.bot.db.models.db" />
         <option value="slackathon.bot.db.utils.db" />
         <option value="dict.__getitem__" />
+        <option value="datetime.UTC" />
       </list>
     </option>
   </inspection_tool>
