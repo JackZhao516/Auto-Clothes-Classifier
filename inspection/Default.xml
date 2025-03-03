@@ -52,6 +52,7 @@
         <option value="slackathon.bot.db.utils.db" />
         <option value="dict.__getitem__" />
         <option value="datetime.UTC" />
+        <option value="int.in_" />
       </list>
     </option>
   </inspection_tool>
